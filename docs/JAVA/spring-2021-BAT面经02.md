@@ -1,3 +1,6 @@
+![Image of Yaktocat](https://qn.abange.cn/%E5%85%B3%E6%B3%A8%E8%8E%B7%E5%8F%96%E9%9D%A2%E7%BB%8F.jpeg)
+
+
 1、SpringBoot运行项目的几种方式？
 打包用命令或者放到容器中运行
 1、 打成jar包，使用java -jar xxx.jar运行
