@@ -1,1 +1,3 @@
-mysql-2021-BAT面经02
+### 目录结构
+
+![Image of Yaktocat](https://qn.abange.cn/mysql_02.jpeg)
